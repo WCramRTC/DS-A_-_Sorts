@@ -1,9 +1,6 @@
 # DS-A_-_Sorts
 
-Here's a language-agnostic breakdown of Bubble, Insertion, Merge, and Selection sort algorithms, each with a relevant link from Geeks for Geeks for further reading. The description is formatted in Markdown:
-
-```markdown
-# Sorting Algorithms Breakdown
+ Sorting Algorithms Breakdown
 
 ## Bubble Sort
 - **Description**: A comparison-based algorithm where each pair of adjacent elements is compared and the elements are swapped if they are not in order. This process is repeated until the list is sorted.
@@ -21,6 +18,3 @@ Here's a language-agnostic breakdown of Bubble, Insertion, Merge, and Selection 
 ## Selection Sort
 - **Description**: This algorithm sorts an array by repeatedly finding the smallest (or largest) element from the unsorted part and moving it to the sorted part. It does this by swapping the found element with the first element of the unsorted part.
 - [Read more on Selection Sort](https://www.geeksforgeeks.org/selection-sort/) [oai_citation:4,Selection Sort – Data Structure and Algorithm Tutorials](https://www.geeksforgeeks.org/selection-sort/).
-```
-
-This Markdown formatted text provides a concise overview of each sorting algorithm with links to detailed explanations and examples.
